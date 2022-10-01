@@ -18,9 +18,6 @@ if string[0]==string[l-1]:
 
 else:
     pass   
-
-for i in range(10):
-    print("Test")     
         
       
         
