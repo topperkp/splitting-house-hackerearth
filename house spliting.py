@@ -19,7 +19,10 @@ if string[0]==string[l-1]:
     print(s)
 
 else:
-    pass        
+    pass   
+
+for i in range(10):
+    print("Test")     
         
       
         
