@@ -7,9 +7,7 @@ l = len(string)
 s = ''
 
 if string[0]==string[l-1]:
-    print('YES')
     for i in string:
-        print(i)
         if i is '.' :
             s= s+'B'
         else:
