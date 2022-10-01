@@ -1,7 +1,6 @@
+## splitting-house-hackerearth
 
-</ splitting-house-hackerearth />
-
-hackerearth problem solution in python programming language.
+Hackerearth problem solution in Python Programming language.
 
 
 
@@ -10,4 +9,3 @@ hackerearth problem solution in python programming language.
 This problem is available on hackerrank.
 
 Hi this is temp 1
-
